@@ -1,0 +1,2 @@
+# puppet_1st_test
+puppet_1st_test puppetmaster01
